@@ -3,18 +3,6 @@
 This project performs data cleaning and analytical processing on Amazon sales data. The data is extracted from an Excel source and transformed in BigQuery using SQL to generate a clean, enriched dataset and an analysis view.
 
 ---
-
-## Project Structure
-├── Data/
-│ └── Sales_Data.xlsx # Raw sales data in Excel format
-│
-├── SQL query/
-│ └── sales_clean_and_analysis.sql # SQL script to clean and analyze the data
-│
-├── README.md # Project documentation
-
----
-
 ## Data Source
 
 **File:** `Data/Sales_Data.xlsx`  

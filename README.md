@@ -70,4 +70,4 @@ You will get:
 
 ## Author
 
-This project was created by [Caleb Jackson] for the purpose of sales performance and return-rate analysis using SQL on BigQuery.
+This project was created by Caleb Jackson for the purpose of sales performance and return-rate analysis using SQL on BigQuery.
